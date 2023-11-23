@@ -32,6 +32,10 @@
     "id" : "__GIfgInhEe6vkJEo6uyTxg - DATA_SRC_AGE_GROUP",
     "version" : "Latest",
     "type" : "schema"
+  }, {
+    "id" : "_xk1IkInfEe6vkJEo6uyTxg - trg_city",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
