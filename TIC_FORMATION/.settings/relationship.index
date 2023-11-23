@@ -16,6 +16,10 @@
     "id" : "_xk1IkInfEe6vkJEo6uyTxg",
     "version" : "Latest",
     "type" : "property"
+  }, {
+    "id" : "_xk1IkInfEe6vkJEo6uyTxg - trg_region",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
