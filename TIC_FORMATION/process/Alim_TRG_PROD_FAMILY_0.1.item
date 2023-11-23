@@ -5,7 +5,7 @@
     <contextParameter comment="" internalId="_BozW84nqEe6vkJEo6uyTxg" name="Gestion_de_commande_Port" prompt="Gestion_de_commande_Port?" promptNeeded="false" repositoryContextId="_kNy2AInfEe6vkJEo6uyTxg" type="id_String" value="3306"/>
     <contextParameter comment="" internalId="_BozW9InqEe6vkJEo6uyTxg" name="Gestion_de_commande_AdditionalParams" prompt="Gestion_de_commande_AdditionalParams?" promptNeeded="false" repositoryContextId="_kNy2AInfEe6vkJEo6uyTxg" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
     <contextParameter comment="" internalId="_BozW9YnqEe6vkJEo6uyTxg" name="Gestion_de_commande_Database" prompt="Gestion_de_commande_Database?" promptNeeded="false" repositoryContextId="_kNy2AInfEe6vkJEo6uyTxg" type="id_String" value="Formation_Source"/>
-    <contextParameter comment="" internalId="_BozW9onqEe6vkJEo6uyTxg" name="Gestion_de_commande_Password" prompt="Gestion_de_commande_Password?" promptNeeded="false" repositoryContextId="_kNy2AInfEe6vkJEo6uyTxg" type="id_Password" value="enc:system.encryption.key.v1:S4kfmd5jMHzbwQD7AuAxgPR8216xohdAuUYHHuk8UWBQ5Gvk5g=="/>
+    <contextParameter comment="" internalId="_BozW9onqEe6vkJEo6uyTxg" name="Gestion_de_commande_Password" prompt="Gestion_de_commande_Password?" promptNeeded="false" repositoryContextId="_kNy2AInfEe6vkJEo6uyTxg" type="id_Password" value="enc:system.encryption.key.v1:N8fofRugkvhSN7nbOfAjcv/03vEBA64VNvhyyyzAhtexWAKiIQ=="/>
   </context>
   <parameters>
     <elementParameter field="CLOSED_LIST" name="LOG4J_RUN_LEVEL" show="false" value="Info"/>
@@ -50,7 +50,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:H9KW4vKH4NqubPmHrdRtd4Vn1XKdz+zUhRL8h/t/"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:yjsGtVmSjG5/IGr0UArp6/hZLpejuetlywYRGJIe"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -85,7 +85,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:rmvBc5FHBcd1WhFPoMNdRXE0XNzrcnpJfw9oCAN2"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:32+pLeJy0EfU7kXUJlAf0jATc+qIlywS+hmw2cfa"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -172,7 +172,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.Gestion_de_commande_Database"/>
     <elementParameter field="TEXT" name="PROPERTIES" value="context.Gestion_de_commande_AdditionalParams"/>
     <elementParameter field="TEXT" name="USER" value="context.Gestion_de_commande_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:GAU98EecCNN9wjIDN30R72vnrJYUEwgZWphkOD4ANHVjQqTaZZeQ32/SJRpkYxr2CXXxXPrb3Qb48aZrgOvjJg=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:hp58zB2Cqcv3gvoQrEb4JGC3d7HYWPVeepRjuYlV0R+ESqKZf7/Ziwa22Nhpq9Q05uU4nWVu1c4TQvwrnMNsJQ=="/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="USE_SHARED_CONNECTION" value="false"/>
@@ -195,7 +195,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;Formation_cible&quot;"/>
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1&quot;"/>
     <elementParameter field="TEXT" name="USER" value="&quot;talend&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Jf4cbMa8U/sfDCxWvbfBBW0GbMmDljZyaakLkVJIWXXpHsOxvZll"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:pq2RVrv4LbrMs/b/r7y3ka5xUDcHlYvJH1/aMZEaRVAtP9pKbXc5"/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="USE_SHARED_CONNECTION" value="false"/>
@@ -254,7 +254,7 @@
     <elementParameter field="TEXT" name="PORT" show="false" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" show="false" value="&quot;Formation_cible&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;talend&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:/BfvagQdgxDcziaM3VM+Z1QJajuNxFC0+fps9wqPZdbW4r+TqTes"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:pMy1+/Ph0GHlOvco5Vj7BzJ/rRPYrTlDN9jUDPqEogwOFe4PxuAe"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;trg_prod_family&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="NONE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -328,75 +328,6 @@
       <additionalProperties key="Comment" value=""/>
     </metadata>
   </node>
-  <node componentName="tFileInputXML" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="320" posY="416">
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputXML_1"/>
-    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Formation/ETL_Projet_DEV/FileSources/MainActivity.xml&quot;"/>
-    <elementParameter field="TEXT" name="LOOP_QUERY" value="&quot;/Main/Activity&quot;"/>
-    <elementParameter field="TABLE" name="MAPPING">
-      <elementValue elementRef="SCHEMA_COLUMN" value="Familyname"/>
-      <elementValue elementRef="QUERY" value="&quot;/Main/Activity/Familyname&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Flag"/>
-      <elementValue elementRef="QUERY" value="&quot;/Main/Activity/Flag&quot;"/>
-      <elementValue elementRef="NODECHECK" value=""/>
-    </elementParameter>
-    <elementParameter field="TEXT" name="LIMIT" value="50"/>
-    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="true"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
-    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:REPOSITORY_SCHEMA_TYPE" show="false" value="_2VjlQIniEe6vkJEo6uyTxg - MainActivity"/>
-    <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
-    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" show="false" value="&quot;,&quot;"/>
-    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" show="false" value="&quot;.&quot;"/>
-    <elementParameter field="CHECK" name="IGNORE_NS" value="false"/>
-    <elementParameter field="CHECK" name="IGNORE_DTD" value="false"/>
-    <elementParameter field="FILE" name="TMP_FILENAME" show="false" value="&quot;C:/Formation/ETL_Projet_DEV/Workspace/temp.xml&quot;"/>
-    <elementParameter field="CHECK" name="USE_SEPARATOR" value="false"/>
-    <elementParameter field="TEXT" name="FIELD_SEPARATOR" show="false" value="&quot;,&quot;"/>
-    <elementParameter field="CLOSED_LIST" name="GENERATION_MODE" value="Dom4j"/>
-    <elementParameter field="CHECK" name="CHECK_DATE" value="false"/>
-    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-1&quot;"/>
-    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="CUSTOM"/>
-    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="100"/>
-    <elementParameter field="TEXT" name="LABEL" value="MainActivity"/>
-    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="MainActivity" name="tFileInputXML_1">
-      <column comment="" key="false" length="0" name="Familyname" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="0" name="Flag" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-    </metadata>
-    <metadata connector="REJECT" label="MainActivity" name="REJECT">
-      <column comment="" key="false" length="0" name="Familyname" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="0" name="Flag" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
-      <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
-    </metadata>
-  </node>
-  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="480" posY="416">
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tLogRow_4"/>
-    <elementParameter field="RADIO" name="BASIC_MODE" value="false"/>
-    <elementParameter field="RADIO" name="TABLE_PRINT" value="true"/>
-    <elementParameter field="RADIO" name="VERTICAL" value="false"/>
-    <elementParameter field="RADIO" name="PRINT_UNIQUE" show="false" value="true"/>
-    <elementParameter field="RADIO" name="PRINT_LABEL" show="false" value="false"/>
-    <elementParameter field="RADIO" name="PRINT_UNIQUE_LABEL" show="false" value="false"/>
-    <elementParameter field="TEXT" name="FIELDSEPARATOR" show="false" value="&quot;|&quot;"/>
-    <elementParameter field="CHECK" name="PRINT_HEADER" show="false" value="false"/>
-    <elementParameter field="CHECK" name="PRINT_UNIQUE_NAME" show="false" value="false"/>
-    <elementParameter field="CHECK" name="PRINT_COLNAMES" show="false" value="false"/>
-    <elementParameter field="CHECK" name="USE_FIXED_LENGTH" show="false" value="false"/>
-    <elementParameter field="TABLE" name="LENGTHS" show="false">
-      <elementValue elementRef="SCHEMA_COLUMN" value="Familyname"/>
-      <elementValue elementRef="LENGTH" value="10"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="Flag"/>
-      <elementValue elementRef="LENGTH" value="10"/>
-    </elementParameter>
-    <elementParameter field="CHECK" name="PRINT_CONTENT_WITH_LOG4J" value="true"/>
-    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="100"/>
-    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" label="MainActivity" name="tLogRow_4">
-      <column comment="" key="false" length="0" name="Familyname" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="0" name="Flag" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-    </metadata>
-  </node>
   <node componentName="tMysqlInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="160" posY="608">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tDBInput_1"/>
     <elementParameter field="CHECK" name="ACTIVATE" value="false"/>
@@ -410,7 +341,7 @@
     <elementParameter field="TEXT" name="DBNAME" show="false" value="context.Gestion_de_commande_Database"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.Gestion_de_commande_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:GhgNSwtnae4/cFN05TY1fvVHB95Ze3lsgkHLpKIaYNDmbxsHrAUh0j9X2NHfKIErh0osR/vOOe+CNdqA632zMw=="/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:hN5eUO3odrT9he9awnQAOthJ6g6mcVnq3qfdcgc04G61HaZWMpHtsMDUJ33ISFxvHKykEyPqWvDlA8xc8pL0Cw=="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;src_product&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
@@ -612,6 +543,77 @@
       <column comment="" key="false" length="0" name="Flag" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
+  <node componentName="tFileInputXML" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="320" posY="416">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputXML_1"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
+    <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_2VjlQIniEe6vkJEo6uyTxg"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Formation/ETL_Projet_DEV/FileSources/MainActivity.xml&quot;"/>
+    <elementParameter field="TEXT" name="LOOP_QUERY" value="&quot;/Main/Activity&quot;"/>
+    <elementParameter field="TABLE" name="MAPPING">
+      <elementValue elementRef="SCHEMA_COLUMN" value="Familyname"/>
+      <elementValue elementRef="QUERY" value="&quot;Familyname&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="Flag"/>
+      <elementValue elementRef="QUERY" value="&quot;Flag&quot;"/>
+      <elementValue elementRef="NODECHECK" value=""/>
+    </elementParameter>
+    <elementParameter field="TEXT" name="LIMIT" value="50"/>
+    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="true"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:REPOSITORY_SCHEMA_TYPE" show="false" value="_2VjlQIniEe6vkJEo6uyTxg - MainActivity"/>
+    <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
+    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" show="false" value="&quot;,&quot;"/>
+    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" show="false" value="&quot;.&quot;"/>
+    <elementParameter field="CHECK" name="IGNORE_NS" value="false"/>
+    <elementParameter field="CHECK" name="IGNORE_DTD" value="false"/>
+    <elementParameter field="FILE" name="TMP_FILENAME" show="false" value="&quot;C:/Formation/ETL_Projet_DEV/Workspace/temp.xml&quot;"/>
+    <elementParameter field="CHECK" name="USE_SEPARATOR" value="false"/>
+    <elementParameter field="TEXT" name="FIELD_SEPARATOR" show="false" value="&quot;,&quot;"/>
+    <elementParameter field="CLOSED_LIST" name="GENERATION_MODE" value="Dom4j"/>
+    <elementParameter field="CHECK" name="CHECK_DATE" value="false"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-1&quot;"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="CUSTOM"/>
+    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="100"/>
+    <elementParameter field="TEXT" name="LABEL" value="MainActivity"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" label="MainActivity" name="tFileInputXML_1">
+      <column comment="" key="false" length="0" name="Familyname" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="Flag" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+    </metadata>
+    <metadata connector="REJECT" label="MainActivity" name="REJECT">
+      <column comment="" key="false" length="0" name="Familyname" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="Flag" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+      <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+    </metadata>
+  </node>
+  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="480" posY="416">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tLogRow_4"/>
+    <elementParameter field="RADIO" name="BASIC_MODE" value="false"/>
+    <elementParameter field="RADIO" name="TABLE_PRINT" value="true"/>
+    <elementParameter field="RADIO" name="VERTICAL" value="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE" show="false" value="true"/>
+    <elementParameter field="RADIO" name="PRINT_LABEL" show="false" value="false"/>
+    <elementParameter field="RADIO" name="PRINT_UNIQUE_LABEL" show="false" value="false"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" show="false" value="&quot;|&quot;"/>
+    <elementParameter field="CHECK" name="PRINT_HEADER" show="false" value="false"/>
+    <elementParameter field="CHECK" name="PRINT_UNIQUE_NAME" show="false" value="false"/>
+    <elementParameter field="CHECK" name="PRINT_COLNAMES" show="false" value="false"/>
+    <elementParameter field="CHECK" name="USE_FIXED_LENGTH" show="false" value="false"/>
+    <elementParameter field="TABLE" name="LENGTHS" show="false">
+      <elementValue elementRef="SCHEMA_COLUMN" value="Familyname"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="Flag"/>
+      <elementValue elementRef="LENGTH" value="10"/>
+    </elementParameter>
+    <elementParameter field="CHECK" name="PRINT_CONTENT_WITH_LOG4J" value="true"/>
+    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="100"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" label="MainActivity" name="tLogRow_4">
+      <column comment="" key="false" length="0" name="Familyname" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="Flag" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+    </metadata>
+  </node>
   <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tPrejob_1" offsetLabelX="0" offsetLabelY="0" source="tPrejob_1" target="tDBConnection_1">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk1"/>
   </connection>
@@ -634,10 +636,6 @@
   <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tDBClose_1" offsetLabelX="0" offsetLabelY="0" source="tDBClose_1" target="tDBCommit_2">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk4"/>
   </connection>
-  <connection connectorName="FLOW" label="row3" lineStyle="0" metaname="tFileInputXML_1" offsetLabelX="0" offsetLabelY="0" source="tFileInputXML_1" target="tLogRow_4">
-    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row3"/>
-  </connection>
   <connection connectorName="FLOW" label="row2" lineStyle="0" metaname="tDBInput_1" offsetLabelX="0" offsetLabelY="0" source="tDBInput_1" target="tLogRow_3">
     <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
     <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
@@ -657,6 +655,10 @@
     <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
     <elementParameter field="CHECK" name="ACTIVATE" show="false" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row4"/>
+  </connection>
+  <connection connectorName="FLOW" label="row3" lineStyle="0" metaname="tFileInputXML_1" offsetLabelX="0" offsetLabelY="0" source="tFileInputXML_1" target="tLogRow_4">
+    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row3"/>
   </connection>
   <subjob>
     <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" show="false" value="true"/>
@@ -711,22 +713,22 @@
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
   <subjob>
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputXML_1"/>
-    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
-    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
-  </subjob>
-  <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tDBInput_1"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_2e674ea8-705f-46fa-8eca-77fe8dc5a81c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>yFWDSDItmeGSAK4H/9PJd9T/z33enNgx/uhxUedFMHnNDZFZHMwlEFc/I+0gNzrlCyRHT5jC5Y81&#13;
-XAX0odVmzQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_30db35ce-a08e-4b47-a71e-4ee3a13b5bd9"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>/0eQpMJTemERj8P9mgMiKG3BvmwKJyXjbFU5FQDNLtwSkxtmEdFzUu45uP1WSxnzVC64oM9PDBfi&#13;
-/0IWzT2a0A==</DigestValue></Reference></SignedInfo><SignatureValue>KJ1SRluRGDQsM1koDBH79Q4orXCVY0DrmoUXCLZoEFaO+MVPnwUW6zH4GxDwIsLLEaEjElt5qcRY&#13;
-B/PHs9s4MWfa4NmeInf/d7Jj8OQeREvRQfGlIKnehAGqFS6N7SJQ5dUuoCAWadc9g9aCZD+OBNOv&#13;
-TVdqywXdoVGN4FmYgDuEKsCsyMrWwvUcp76M+duHMXXQCdfNTLaCRrieoB8j9UzIwqjWvDEap73U&#13;
-fCD+8qQDxML0KOsE1F15NEMJDoZUQp2GE97nvUOI7Dr+ngyJmdUdqWmcsGS1P/ODKg103TgygNjw&#13;
-ZQowApazghw6HbUt7IjI5BcayWarrzcsHI788w==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputXML_1"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+  </subjob>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_e342542f-0dab-42ff-9548-e628ab560772"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>8RKOQrpitLKjot+6yXtRe81/cFPIKc1k7VfcBgLUMscyklCXt7pt24F4M0kfZBvAfwDsa0MJdzm1&#13;
+IjQAHwXQcA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_11066e16-3eb5-42c2-a71e-be75d79e2857"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>DbUwS2UnXp7LzZ/Cdt0VsI2OAIfbisZ/C1dMNTY7O9NqvMJTMQP9yzxHvvUjv3hm7KOhbkxeygLk&#13;
+ZMFEurcouA==</DigestValue></Reference></SignedInfo><SignatureValue>Ip3SUMfmdrOjLMy+satp8dY2KiO6GD5+ynHe0mBCHDoxAmm9DuPp6V9qc8SyKKgxoreFqMCe5lYC&#13;
+OiAKuKcdV6R06YcrBq1SCKHCchpLHAR4sjfuLOQednSfnWwxfnZnBkj50t84HD6ILTLj1FlZdEpD&#13;
+HwUEkRGIVYYObSZs+CtYNJsk9FqLlg+5/0/clV5LyFai/fvx5D9CDwMn3A3mMqry3d0Wlts5BEwE&#13;
+p+Xbx5mXYdh6tn2ztOUGQC08jv1QTB1LS3wNqWVqOI6zwo7itozHbFCEOV255ZkYvDqgErycasfv&#13;
+h0krm6C7WPeDNaRNuIUEVNNkNwTmRATfX7ulmQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -748,4 +750,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_30db35ce-a08e-4b47-a71e-4ee3a13b5bd9" Target="#_2e674ea8-705f-46fa-8eca-77fe8dc5a81c"><Timestamp>2023-11-23 15:58:31</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_11066e16-3eb5-42c2-a71e-be75d79e2857" Target="#_e342542f-0dab-42ff-9548-e628ab560772"><Timestamp>2023-11-23 15:59:54</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
