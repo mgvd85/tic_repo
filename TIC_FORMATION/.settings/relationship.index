@@ -101,10 +101,6 @@
     "id" : "_2VjlQIniEe6vkJEo6uyTxg - MainActivity",
     "version" : "Latest",
     "type" : "schema"
-  }, {
-    "id" : "_xk1IkInfEe6vkJEo6uyTxg - trg_prod_family",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
