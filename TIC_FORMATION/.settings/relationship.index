@@ -77,6 +77,45 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_X-610IoVEe6vkJEo6uyTxg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_kNy2AInfEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_IX_z0InfEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VO3GoInhEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "__GIfgInhEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_xk1IkInfEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_VO3GoInhEe6vkJEo6uyTxg - DATA_SRC_SALES_PERSON",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "__GIfgInhEe6vkJEo6uyTxg - DATA_SRC_AGE_GROUP",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xk1IkInfEe6vkJEo6uyTxg - trg_city",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_YZFnIIoGEe6vkJEo6uyTxg",
     "version" : "0.1",
     "type" : "job"
