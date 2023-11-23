@@ -13,6 +13,10 @@
     "version" : "Latest",
     "type" : "property"
   }, {
+    "id" : "_VO3GoInhEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "__GIfgInhEe6vkJEo6uyTxg",
     "version" : "Latest",
     "type" : "property"
@@ -21,7 +25,7 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_IX_z0InfEe6vkJEo6uyTxg - src_customer",
+    "id" : "_VO3GoInhEe6vkJEo6uyTxg - DATA_SRC_SALES_PERSON",
     "version" : "Latest",
     "type" : "schema"
   }, {
