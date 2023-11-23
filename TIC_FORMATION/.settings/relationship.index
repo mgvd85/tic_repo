@@ -86,15 +86,11 @@
     "version" : "Latest",
     "type" : "context"
   }, {
+    "id" : "_2VjlQIniEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_IX_z0InfEe6vkJEo6uyTxg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_VO3GoInhEe6vkJEo6uyTxg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "__GIfgInhEe6vkJEo6uyTxg",
     "version" : "Latest",
     "type" : "property"
   }, {
@@ -102,15 +98,11 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_VO3GoInhEe6vkJEo6uyTxg - DATA_SRC_SALES_PERSON",
+    "id" : "_2VjlQIniEe6vkJEo6uyTxg - MainActivity",
     "version" : "Latest",
     "type" : "schema"
   }, {
-    "id" : "__GIfgInhEe6vkJEo6uyTxg - DATA_SRC_AGE_GROUP",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_xk1IkInfEe6vkJEo6uyTxg - trg_city",
+    "id" : "_xk1IkInfEe6vkJEo6uyTxg - trg_prod_family",
     "version" : "Latest",
     "type" : "schema"
   } ]
