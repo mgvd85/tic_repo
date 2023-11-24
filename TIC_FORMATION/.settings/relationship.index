@@ -125,4 +125,31 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "__P8fkIqhEe6M47ydY84zFQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_kNy2AInfEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_2VjlQIniEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_IX_z0InfEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_xk1IkInfEe6vkJEo6uyTxg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2VjlQIniEe6vkJEo6uyTxg - MainActivity",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
