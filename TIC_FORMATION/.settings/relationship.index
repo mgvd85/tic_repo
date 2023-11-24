@@ -136,10 +136,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "_2VjlQIniEe6vkJEo6uyTxg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "_IX_z0InfEe6vkJEo6uyTxg",
     "version" : "Latest",
     "type" : "property"
@@ -148,7 +144,15 @@
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_2VjlQIniEe6vkJEo6uyTxg - MainActivity",
+    "id" : "_IX_z0InfEe6vkJEo6uyTxg - src_product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xk1IkInfEe6vkJEo6uyTxg - trg_prod_family",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xk1IkInfEe6vkJEo6uyTxg - trg_product",
     "version" : "Latest",
     "type" : "schema"
   } ]
